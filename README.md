@@ -1,7 +1,7 @@
 # Netflix, Inc. (NFLX) - Equity Valuation & Financial Model
 
 **Valuation Date:** November 10, 2025  
-**Analyst:** [Your Name]
+**Analyst:** Aswin Chidambaram
 
 ---
 
